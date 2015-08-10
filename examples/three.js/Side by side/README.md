@@ -2,7 +2,7 @@
 
 This demo shows side by side rendering of the same graph with [`ngraph.fabric`](https://github.com/anvaka/ngraph.fabric) and [`ngraph.three`](https://github.com/anvaka/ngraph.three):
 
-Run: [**2D and 3D side by side**](http://anvaka.github.io/ngraph/examples/three.js/Side%20by%20side/index.html)
+Run: [**2D and 3D side by side**](https://Dj-Corps.github.io/ngraph/examples/three.js/Side%20by%20side/index.html)
 
 View:
 
